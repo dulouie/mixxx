@@ -9,7 +9,7 @@
         <scriptfiles>
             <file filename="lodash.mixxx.js"/>
             <file filename="midi-components-0.0.js"/>
-            <file functionprefix="Traktorino" filename="traktorino.js"/>
+            <file functionprefix="Traktorino" filename="Traktorino.js"/>
         </scriptfiles>
         <controls>
             <control>
